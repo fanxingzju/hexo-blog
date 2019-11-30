@@ -95,4 +95,6 @@ theme: yilia
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/fanxingzju/fanxingzju.github.io.git
+  branch: master 
